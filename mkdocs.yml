@@ -2,16 +2,16 @@ site_name: Online-Dokumentationen
 theme: material
 site_description: A Material Design theme for MkDocs
 site_author: Meinolf Droste
-site_url: http://mdwp-mkdocs-cms.netlify.com/
+site_url: http://upbeat-hamilton-098085.netlify.com/
 
 extra:
   social:
     - type: 'github'
-      link: 'https://github.com/capriosa'
+      link: 'https://github.com/maestrofx'
     - type: 'twitter'
-      link: 'https://twitter.com/mdwp'
+      link: 'https://twitter.com/etc'
     - type: 'facebook'
-      link: 'https://facebook.com/mdwp.de'
+      link: 'https://facebook.com/etc'
   feature:
     tabs: true
   palette:
@@ -22,36 +22,36 @@ extra:
 extra_css:
   - 'stylesheets/extra.css'
 
-repo_name: 'capriosa/mkdocs-cms'
-repo_url: 'https://github.com/capriosa/mkdocs-cms'
+repo_name: 'maestrofx/mkdocs-cms'
+repo_url: 'https://github.com/maestrofx/mkdocs-cms'
 
 # Copyright
-copyright: '<a href="https://www.mdwp.de">mdwp</a>'
+copyright: '<a href="https://www.example.com">mdwp</a>'
 
 # Theme directory
 theme_dir: material
 
 # Extensions
 markdown_extensions:
-  - markdown.extensions.admonition
-  - markdown.extensions.codehilite(guess_lang=false)
-  - markdown.extensions.def_list
-  - markdown.extensions.footnotes
-  - markdown.extensions.meta
-  - markdown.extensions.toc(permalink=true)
-  - pymdownx.arithmatex
-  - pymdownx.betterem(smart_enable=all)
-  - pymdownx.caret
-  - pymdownx.critic
-  - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
-  - pymdownx.inlinehilite
-  - pymdownx.magiclink
-  - pymdownx.mark
-  - pymdownx.smartsymbols
-  - pymdownx.superfences
-  - pymdownx.tasklist(custom_checkbox=true)
-  - pymdownx.tilde
+#  - markdown.extensions.admonition
+#  - markdown.extensions.codehilite(guess_lang=false)
+#  - markdown.extensions.def_list
+#  - markdown.extensions.footnotes
+#  - markdown.extensions.meta
+#  - markdown.extensions.toc(permalink=true)
+#  - pymdownx.arithmatex
+#  - pymdownx.betterem(smart_enable=all)
+#  - pymdownx.caret
+#  - pymdownx.critic
+#  - pymdownx.emoji:
+#      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+#  - pymdownx.inlinehilite
+#  - pymdownx.magiclink
+#  - pymdownx.mark
+#  - pymdownx.smartsymbols
+#  - pymdownx.superfences
+#  - pymdownx.tasklist(custom_checkbox=true)
+#  - pymdownx.tilde
 
 # Page tree
 pages:
